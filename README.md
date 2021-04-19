@@ -7,3 +7,8 @@ The project includes a good way to use the data attribute.
 I hosted it on Netlify to give a view of how it works and what it does.
 
 [Meditation Web Site](https://meditationsite.netlify.app/)
+
+## Run it on your local machine
+
+1. Download ZIP file on your local machine.
+2. Open the index.html file.
